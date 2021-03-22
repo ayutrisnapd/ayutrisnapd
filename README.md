@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ayutrisnapd
-- 👀 I’m interested in Design & Digital Marketing
-- 🌱 I’m currently learning Bussines Administration
 
 
 <!---
